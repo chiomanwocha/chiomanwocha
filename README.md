@@ -18,11 +18,19 @@ I build the systems companies actually run on: role-based permissions, multi-ten
 
 ### `/currently`
 
-| | |
-|---|---|
-| **role** | Frontend Engineer |
-| **location** | Nigeria |
-| **open to** | Contracts & collaborations |
+<table>
+<tr>
+<td>role</td>
+<td>Frontend Engineer</td>
+</tr>
+<tr>
+<td>location</td>
+<td>Nigeria</td>
+</tr>
+<tr>
+<td>open to</td>
+<td>Contracts & collaborations</td></tr>
+</table>
 
 <br />
 
